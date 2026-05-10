@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f5c7809b-f755-4543-a248-b72b17339980",
+			"database_name": "pokebroker_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
